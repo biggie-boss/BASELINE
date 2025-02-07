@@ -31,7 +31,7 @@ Wabbajack Modlist Installer by biggie_boss.
 
 Owing to the need to clean master files and certain errors with Wabbajack, BASELINE only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
-:warning: :exclamation: **BASELINE REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :exclamation: :warning:
+:warning: :exclamation: **BASELINE REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 WITH FULL ANNIVERSARY EDITION (PAID UPGRADE) AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :exclamation: :warning:
 
 ***
 
@@ -55,8 +55,8 @@ Prior to installing BASELINE, please complete the following steps.
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Make sure your Skyrim Steam installation is updated to the latest version (1.6.1170) and set to the English language. I HIGHLY recommend not installing Steam, Skyrim nor any modlist into yur Program Files. 
 4. Fully disable OneDrive and any other programs which hook into user file areas.
-5. Launch the game to the main menu and allow it to download the free creation club addon files. **DO NOT VERIFY YOUR GAME FILES, DO NOT ALT TAB** If you already verified, go to step 6. 
-6. If you get a curios or other cc error, go into your Skyrim Steam installation "Data" folder and delete ALL files beginning with "cc". Then relaunch the game and re-download the 4 free creation club content. **DO NOT ALT TAB**
+5. Launch the game to the main menu and allow it to download the Skyrim Anniversary Edition (full version) addon files. **DO NOT VERIFY YOUR GAME FILES, DO NOT ALT TAB** If you already verified, go to step 6. 
+6. If you get a curios or other cc error, go into your Skyrim Steam installation "Data" folder and delete ALL files beginning with "cc". Then relaunch the game and re-download the creation club content. **DO NOT ALT TAB**
 7. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 8. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.** https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
 
