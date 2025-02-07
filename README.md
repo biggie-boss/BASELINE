@@ -90,9 +90,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - **Make sure you have downloaded all the FREE AE update content!**
+    - **Make sure you have downloaded all the AE update content!**
 	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](#pre-installation) and read it properly this time.
-  - Make sure you have the correct version of Rare Curios installed. Delete every file that begins with "cc" in your Skyrim Data folder. Then re-launch Skyrim and install the free CC in-game. DO NOT ALT TAB. DO NOT VERIFY YOUR INSTALLATION.
+  - Make sure you have the correct version of Rare Curios installed. Delete every file that begins with "cc" in your Skyrim Data folder. Then re-launch Skyrim and install the CC in-game. DO NOT ALT TAB. DO NOT VERIFY YOUR INSTALLATION.
 
 - x is not a whitelisted download:
 
