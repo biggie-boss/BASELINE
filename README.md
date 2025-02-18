@@ -1,4 +1,4 @@
-# BASELINE
+# BASELINE - THIS MODLIST IS NO LONGER AVAILABLE THIS PAGE JUST SERVES AS AN ARCHIVE
 A baseline list to start your own Skyrim SE/AE modded experience.
 
 ![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1736628102-2108953216.png)
